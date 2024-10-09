@@ -41,9 +41,9 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "住宅代理",
       "pages": [
-        "essentials/markdown",
+        "essentials/介绍",
         "essentials/code",
         "essentials/images",
         "essentials/settings",
